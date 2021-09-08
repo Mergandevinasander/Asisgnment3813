@@ -1,0 +1,14 @@
+{"users":[
+        {"username":"superman","role":"super","email":"superman@email.com",
+            "groups":[
+                {"name":"Music","channels":["Metal"]}]},
+        {"username":"Group Admin","role":"groupadmin","email":"groupadmin@email.com",
+            "groups":[
+                {"name":"Video Games","channels":["WoW"]}]},
+        {"username":"User 1","role":"user","email":"user@email.com",
+            "groups":[]}],
+            "groups":[
+                {"name":"Music","channels":["Metal","Jazz"],"group_assis":[]},
+                {"name":"Video Games","channels":["WoW"],"group_assis":[]}
+        ]
+}
